@@ -5,18 +5,18 @@ format:
 subtitle: "Untertitel der Arbeit"
 department: Angewandte Informatik
 institute: "DHBW Mosbach"
-address: "Lohrtalweg 10, 74821 Mosbach"
+address: "Test 10, 66666 Testcity"
 subject: "Bachelor Thesis"
 degree: "Bachelor of Science"
 stream: "Angewandte Informatik"
 guide:
-  name: "Prof. Dr. Test"
+  name: "Prof. Dr. Testperson"
   affiliation: "DHBW Mosbach"
   department: "Angewandte Informatik"
 font: "Times New Roman"
 authors:
-  - name: "Joachim Kern"
-    email: "joachim.dev@pm.me"
+  - name: "Testperson"
+    email: "test.test@test.me"
 keep-typ: true
 abstract: |
   Eine Vorlage für die Erstellung von wissenschaftlichen Arbeiten an der DHBW Mosbach.
