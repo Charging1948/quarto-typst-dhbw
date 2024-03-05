@@ -1,5 +1,7 @@
 # DHBW Mosbach Bachelor Thesis Format
 
+Initially based upon [Project-Report-Typst (by aurghya-0)](https://github.com/aurghya-0/Project-Report-Typst)
+
 ## Installing
 
 ```bash
