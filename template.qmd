@@ -1,25 +1,12 @@
 ---
-title: "Titel der Arbeit"
 format:
   dhbw-typst: default
-subtitle: "Untertitel der Arbeit"
-department: Angewandte Informatik
-institute: "DHBW Mosbach"
-address: "Test 10, 66666 Testcity"
-subject: "Bachelor Thesis"
-degree: "Bachelor of Science"
-stream: "Angewandte Informatik"
 guide:
   name: "Prof. Dr. Testperson"
-  affiliation: "DHBW Mosbach"
-  department: "Angewandte Informatik"
-font: "Times New Roman"
 authors:
   - name: "Testperson"
     email: "test.test@test.me"
 keep-typ: true
-abstract: |
-  Eine Vorlage für die Erstellung von wissenschaftlichen Arbeiten an der DHBW Mosbach.
 ---
 
 # Introduction
