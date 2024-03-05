@@ -1,17 +1,12 @@
-# Dhbw Format
+# DHBW Mosbach Bachelor Thesis Format
 
 ## Installing
 
-_TODO_: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto use template <github-organization>/dhbw
+quarto use template Charging1948/quarto-dhbw-typst
 ```
 
 This will install the format extension and create an example qmd file
 that you can use as a starting place for your document.
 
 ## Using
-
-_TODO_: Describe how to use your format.
-
