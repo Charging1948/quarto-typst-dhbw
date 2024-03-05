@@ -1,0 +1,33 @@
+---
+title: "Titel der Arbeit"
+format:
+  dhbw-typst: default
+subtitle: "Untertitel der Arbeit"
+department: Angewandte Informatik
+institute: "DHBW Mosbach"
+address: "Lohrtalweg 10, 74821 Mosbach"
+subject: "Bachelor Thesis"
+degree: "Bachelor of Science"
+stream: "Angewandte Informatik"
+guide:
+  name: "Prof. Dr. Test"
+  affiliation: "DHBW Mosbach"
+  department: "Angewandte Informatik"
+font: "Times New Roman"
+authors:
+  - name: "Joachim Kern"
+    email: "joachim.dev@pm.me"
+keep-typ: true
+abstract: |
+  Eine Vorlage für die Erstellung von wissenschaftlichen Arbeiten an der DHBW Mosbach.
+---
+
+# Introduction
+
+*TODO* Test
+
+## More Information
+
+You can learn more about creating custom Typst templates here:
+
+<https://quarto.org/docs/prerelease/1.4/typst.html#custom-formats>
